@@ -1,4 +1,4 @@
-    **Digital transformation ( Chuyển đổi số )**  
+    **Digital transformation ( Chuyển đổi số )**
 Nếu mục trước dạy bạn lý thuyết về cách tạo ra các "bộ não" AI (như Cây quyết định hay Mạng nơ-ron), thì mục này sẽ hướng dẫn cách **ráp những bộ não đó vào một mô hình kinh doanh thực tế**.
 
 1. **Overview & The four domains:** Nhận diện các lĩnh vực mà công nghệ sẽ can thiệp vào doanh nghiệp.  
