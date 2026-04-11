@@ -24,4 +24,4 @@ Khi làm dự án, ai cũng muốn web của mình phải chạy siêu nhanh (Ef
   → Tạo ra các hàm tại abstract ban đầu để việc chia ra từng nhóm nhỏ code các tính năng song song với nhau   
 * **Encapsulation (Đóng gói \- "Khoanh vùng ảnh hưởng"):** Nếu tháng sau, nhóm quyết định đổi từ thanh toán Momo sang thanh toán ZaloPay, bạn chỉ cần sửa code **bên trong** Khối Thanh toán. Nhờ sự đóng gói này, code của Khối Giỏ Hàng hoàn toàn không bị ảnh hưởng, không bị sập, vì "Giao diện" gọi hàm vẫn giữ nguyên.
 
-![Văn bản thay thế]("D:\4_SWE\SWE_Note\image\Screenshot 2026-04-09 124627.png")
+![Văn bản thay thế]("image/Screenshot 2026-04-09 124627.png")
